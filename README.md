@@ -1,6 +1,12 @@
 # Learning Docker
 
-Building a docker setup with Reddis caching system that would help to cache the API responses in a Reddis database.
+* Building a docker setup with Redis caching system that would help to cache the API responses in a Redis database.
+* Advanced docker setups - Creating a custom container with postgres db with node + typescript container
+
+Topics:
+### Docker Desktop
+### Docker CLI
+### Docker Compose
 
 ## Pokemon Cacher
 
